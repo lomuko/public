@@ -1,0 +1,14 @@
+.nivoSlider{position:relative}.nivoSlider
+img{position:absolute;top:0px;left:0px}.nivoSlider a.nivo-imageLink{position:absolute;top:0px;left:0px;width:100%;height:100%;border:0;padding:0;margin:0;z-index:6;display:none}.nivo-slice{display:block;position:absolute;z-index:5;height:100%}.nivo-box{display:block;position:absolute;z-index:5}.nivo-caption{position:absolute;left:0px;bottom:0px;background:#000;color:#fff;opacity:0.8;width:100%;z-index:8}.nivo-caption
+p{padding:5px;margin:0}.nivo-caption
+a{display:inline !important}.nivo-html-caption{display:none}.nivo-directionNav
+a{position:absolute;top:45%;z-index:9;cursor:pointer}.nivo-prevNav{left:0px}.nivo-nextNav{right:0px}.nivo-controlNav
+a{position:relative;z-index:9;cursor:pointer}.nivo-controlNav
+a.active{font-weight:bold}.screenshots{border:1px
+solid #eee;margin:20px
+0 60px 0}.screenshots, .screenshots .nivo-controlNav{width:595px}.screenshots
+a{border-bottom-style:none}.screenshots
+img{display:none}.screenshots
+.first{display:block}.screenshots .nivo-caption{font-size:14px}.screenshots .nivo-control{background:url(http://cdn1.chrispederick.net/images/4.4/work/controls.png) no-repeat 0 0;display:inline-block;height:16px;margin:0
+2px;text-indent: -9999px;width:16px}.screenshots .nivo-controlNav{position:absolute;text-align:center;top:260px}.screenshots .nivo-controlNav
+.active{background-position:0 -64px;font-weight:normal}@media (max-width: 600px){.screenshots, .screenshots .nivo-controlNav{height:auto;max-width:100%;overflow:hidden}}

@@ -1,0 +1,142 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}
+body{line-height:1}
+a{border-bottom:1px solid #000;color:#000;text-decoration:none}
+a:focus,a:hover{border-bottom-color:#999;color:#999}
+a abbr{border-bottom-style:none}
+abbr{border-bottom:1px dotted #ccc;cursor:help}
+body{background-color:#fff;color:}
+body,h1,h2{margin-bottom:20px}
+body,input,textarea{font:13px/1 "proxima-nova-1", "proxima-nova-2", "helvetica neue",helvetica,arial,sans-serif}
+h3,h4,h5,li,p,td,th{line-height:20px}
+h1{font-size:34px;line-height:40px}
+h1,h2,h3,h4,h5,th{font-family:"futura-pt-1","futura-pt-2","helvetica neue",helvetica,arial,sans-serif;font-weight:normal;letter-spacing:1px;text-transform:uppercase}
+h2{font-size:28px;line-height:34px}
+h3{font-size:22px;line-height:28px}
+h3,h4,h5{margin-bottom:10px}
+h3,p+p{margin-top:20px}
+li ol{list-style-type:lower-alpha}
+li ol, li ul{margin-bottom:0;margin-top:0}
+pre{white-space:pre-wrap}
+strong{font-weight:bold}
+ul{list-style-type:square}
+#container{margin:0 auto;max-width:980px}
+#content{margin:40px 0}
+#content{font-size:16px}
+#content:after,#content:before,#footer:after,#footer:before,#header:after,#header:before,#logo:after,#logo:before,#navigation:after,#navigation:before{clear:both;content:"";display:block;height:0;overflow:hidden;visibility:hidden}
+#copyright{float:right}
+#footer{border-top:1px solid #000;padding-top:20px}
+#footer, #footer a{color:#999}
+#footer a{border-bottom-color:#999}
+#footer a:focus, #footer a:hover{border-bottom-color:#999;color:#999}
+#footer{clear:both}
+#header{border-bottom:1px solid #000;padding-bottom:20px}
+#header a{border-bottom-style:none}
+#header h1{margin-bottom:0}
+#header h1 a:focus, #header h1 a:hover{border-bottom-style:solid}
+#header p{color:#999}
+#jump-link{height:20px}
+#jump-link a, #search
+label{left: -9999px;overflow:hidden;position:absolute;width:1px}
+#jump-link a:focus, #jump-link a:hover{background-color:#ffffca;border-style:none;display:block;line-height:20px;padding:0 10px;position:static;text-decoration:underline;width:auto}
+#logo{width:500px}
+#logo, #logo img,#search{float:left}
+#logo img{margin:5px 10px 0 0}
+#navigation{float:right;margin-top:5px}
+#navigation a{background-image:url(navigation.png);background-repeat:no-repeat;display:block;font-family:"futura-pt-1","futura-pt-2","helvetica neue",helvetica,arial,sans-serif;letter-spacing:1px;line-height:20px;margin-bottom:5px;padding-left:25px;text-transform:uppercase}
+#navigation a:focus, #navigation a:hover{text-decoration:underline}
+#navigation .column{float:left;margin-left:40px}
+#navigation .first{margin-left:0}
+.clear{clear:both}
+.no-decoration{border-bottom-style:none}
+.pull{float:right;margin:0 0 20px 20px}
+.push{float:left;margin:0 20px 20px 0}
+#page-navigation{font-size:14px;margin-bottom:20px;text-align:center}
+#page-navigation a{background-image:url(navigation.png);background-repeat:no-repeat;border-bottom-style:none;text-decoration:underline}
+#page-navigation p{display:inline}
+.newer a{background-position:100% -65px;margin-left:20px;padding-right:20px}
+.older a{background-position:0 -1px;margin-right:20px;padding-left:20px}
+#sidebar{float:left;margin:40px 0;width:300px}
+#sidebar h3{margin-top:40px}
+#sidebar h3:first-child{margin-top:0}
+#navigation .about{background-position:0 -255px}
+#navigation .blog{background-position:0 -63px}
+#navigation .repair{background-position:0 -127px}
+#navigation .contact{background-position:0 -318px}
+#navigation .program{background-position:0 -191px}
+#navigation .services{background-position:0 1px}
+#content .last{margin-right:0}
+.split-module{float:left;margin-right:80px;width:450px}
+.split-module:after,.split-module:before{clear:both;content:"";display:block;height:0;overflow:hidden;visibility:hidden}
+.split-module-3{width:270px}
+.framed{border:1px solid #eee;padding:5px}
+.details{color:#999;font-size:14px;margin-top:0}
+.details a{border-bottom-color:#999;color:#999}
+
+#content{float:left;margin-right:80px;width:600px}
+#sidebar{margin-bottom:0}
+#sidebar
+.donate{background:url(donate.png) no-repeat top right;padding-right:40px}
+#sidebar .scroll-active{position:fixed;top:20px;width:300px}
+.split-module{float:left;margin-right:40px;width:260px}
+
+#dsq-global-toolbar{display:none !important;}
+.dsq-options{display:none !important;}
+
+#content .title{float:left; margin-right: 10px;}
+
+IMG.imgcenter{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border:none;
+}
+IMG.left{
+      float:left;
+}
+@media (max-width: 1020px){
+	#container{margin:0 20px}
+}
+@media (max-width: 975px){
+	#logo{width:auto}
+	#logo,#navigation,.column{float:none}
+	#navigation{margin-top:10px}
+	#navigation a{float:left;margin:0 20px 0 0}
+	#navigation .column{display:inline;margin-left:0}
+}
+@media (max-width: 640px){#container{margin:0 10px}
+	#content{margin:20px 0}
+}
+@media (max-width: 480px){
+	#about-portrait{height:75px;width:75px}
+	#content iframe, #content img, #content object, #content video{display:block;height:auto;max-width:100%}
+	#content .pull, #content
+	#copyright{margin-top:10px}
+	#copyright{float:none}
+	#header h1{font-size:22px;line-height:32px;margin-left:40px}
+	#header p{clear:both;padding-top:5px}
+	#logo img{height:32px;width:32px}
+	#navigation a{min-width:100px}
+}
+@media print{.facebook-like{display:none}}
+@media (max-width: 1020px){#content{float:none;margin-right:0}
+	#content, #sidebar .scroll-active,#sub-navigation{width:auto}
+	#download{background-image:none;min-height:0;padding-left:0}
+	#sidebar .donate{margin-bottom:40px}
+	#sidebar .scroll-active{position:static}
+	#sub-navigation{margin-bottom:0}
+	#sub-navigation li{margin:0 20px 0 0}
+}
+@media (max-width: 480px){#download .browser-logo{display:none}
+	#screenshots{float:none;margin:20px auto;max-width:100%}
+}
+@media (max-width: 1020px){
+	#sidebar{float:none;font-size:16px;width:auto}
+	.split-module{float:none;margin-right:0;width:auto}
+}
+@media (max-width: 640px){
+	#navigation a{min-width:100px}
+}
+@media (max-width: 480px){
+	#content .framed{max-width:95%}
+}
+
